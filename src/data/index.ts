@@ -82,7 +82,7 @@ export const writings = [
   {
     title: "Understanding Database Internals",
     description: "A deep dive into how databases store and retrieve data efficiently.",
-    link: null, // Add published article URL when available
+    link: "/blog/understanding-database-internals",
   },
   {
     title: "Lessons from Building Distributed Systems",
